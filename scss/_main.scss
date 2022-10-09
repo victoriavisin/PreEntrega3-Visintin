@@ -1,0 +1,24 @@
+main {
+    #eslogan {
+        font-family: $mifuente;
+        color: $micolor;
+        margin-top: 50px;   
+    }
+
+    #proyectos {
+        font-family: $mifuente;
+        color: $micolor;
+        text-align: center;
+    }
+    .card-img-top {
+        height: 320px !important;
+    }
+    .img-fluid 
+     {
+        height: 700px !important;
+        width: 50% !important;
+    }
+    #equipo {
+        max-height: 40rem !important;
+    }
+}

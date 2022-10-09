@@ -1,0 +1,17 @@
+nav{
+   .navegador {
+    text-align: center;
+    font-size: 1.3rem;
+    font-display: bold;
+    ul {
+        li {
+            a {
+                text-decoration: none;
+                color: black;
+                margin-top: 20px;
+                margin-bottom: 20px;
+            }
+        }
+    }
+   }
+}

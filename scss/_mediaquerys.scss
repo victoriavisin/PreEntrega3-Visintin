@@ -1,0 +1,45 @@
+
+@media (max-width: 575.98px) {
+  .nav-link {
+      font-size: 13px !important;}
+ }
+
+@media (max-width: 767.98px) {
+    #logo-footer {
+        display: none;
+    }
+    #contacto {
+        text-align: center !important;
+    }
+    #iconos a {
+        text-align: center !important;
+    }
+
+    .mapa {
+        width: 75% !important;
+        height: 200px !important;
+    }
+}
+ 
+
+@media (max-width: 991.98px) {
+    #logo-footer {
+        display: none !important;
+    }
+    #contacto {
+        text-align: center !important;
+    }
+    #iconos a {
+        text-align: center !important;
+    }
+    .img-thumbnail {
+        width: 100% !important;
+    }
+}
+
+@media (max-width:1199.98px) {
+    .img-thumbnail {
+        width: 100% !important;
+    }
+}
+
